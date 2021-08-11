@@ -1,2 +1,2 @@
 # react-workspace
-fun react projects
+list of hobby & educational react projects. No rocket science here
